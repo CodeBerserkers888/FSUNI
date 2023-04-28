@@ -7,7 +7,10 @@
   </body>
 </html>
 
-#FreeStylers Esport Universum 
+
+
+
+# FreeStylers Esport Universum 
 
 FreeStylers Esport Universum is a token that will be a exchangeable currency on the Esport platform sponsored by FreeStylers Esport Team.
 The platform will be tournament-league in the first season with leagues and tournaments for: 
@@ -18,7 +21,15 @@ In the next season, Apex, Starcraf, and a Minecraft related novelty will be adde
 The token will be distributed to players in different ways and will be the prize in tournaments. 
 It will be exchangeable for game items and original games and items in the platform's store.
 
+[<b style="color:red">Crypto FreeStylers</b>](https://crypto.freestylers-esport.com/)
+
 # FreeStylers Esport Team
+
+[<b style="color:red">Facebook FreeStylers</b>](https://www.facebook.com/people/FreeStylers-E-Sport-Team/100076797630693/)
+[<b style="color:red">Twitter FreeStylers</b>](https://twitter.com/fstylers99/)
+[<b style="color:red">WWW FreeStylers</b>](https://freestylers-esport.com/)
+[<b style="color:red">AIRDROPS! FreeStylers</b>](https://spearmint.xyz/p/freestylers-esport-team-counter-strike-2)
+
 
 FreeStylers Esport Team is a world-renowned professional
 esports team that has been at the forefront of competitive 
@@ -48,3 +59,22 @@ their craft.
 
 ## Token
 
+ * @title FreeStylers Esport UNIVERS
+ * @author FreesTylers Esport HEXSEC Blockchain AUDIT
+ * @notice Token, ERC20, Mintable
+ * @custom:version 1.0.7
+ * @custom:address 5
+ * @custom:default-precision 18
+ * @custom:simple-description Token that allows the owner to mint as many tokens as desired.
+ * @dev ERC20 token with the following features:
+ *
+ *  - Premint your initial supply.
+ *  - Mint as many tokens as you want with no cap.
+ *  - Only the contract owner can mint new tokens.
+ *
+
+
+ ## To be continued ....
+ 
+ ## Partners 
+ 
