@@ -88,7 +88,8 @@ Please adhere to this project's `code of conduct`.
  - [VIP Program](https://opensea.io/collection/freestylers-esport)
  - [Audit](https://github.com/Bulli77/FSUNI/blob/main/Audit%20FreeStylers%20UNIVERS.pdf)
  - [AIRDROP](https://taskon.xyz/campaign/detail/3966)
-
+ - [AIRDROP - STRIKE BACK!](https://taskon.xyz/campaign/detail/3971)  
+ - [BUY NFT - SUPPORT PROJECT!](https://opensea.io/collection/freestylers-esport)    
  
 
 
