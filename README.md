@@ -120,4 +120,5 @@ The token serves as an exchangeable currency that players can earn in various wa
 
 By purchasing the exclusive NFT on the project's launch day, you'll automatically become a VIP Client for a full year, granting you access to a plethora of exclusive perks on the platform. Keep an eye on the project's official channels for news and updates on the launch and other opportunities to get involved.
 
-
+## WIKI & NEWS
+https://github.com/Bulli77/FSUNI.wiki.git
